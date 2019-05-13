@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/jang/.platformio/penv/bin:/Users/jang/.platformio/penv:/Users/jang/.embulk/bin:/Users/jang/.opam/ocaml-base-compiler.4.03.0/bin:/Users/jang/.cargo/bin:/Users/jang/.fnm/current/bin:/Users/jang/.fnm:/Users/jang/.local/bin:/Users/jang/.deno/bin:/Users/jang/.asdf/shims:/Users/jang/.asdf/shims:/Users/jang/.asdf/bin:/usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/jang/.platformio/penv/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
